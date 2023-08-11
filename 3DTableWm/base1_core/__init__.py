@@ -1,0 +1,4 @@
+from base1_core.base1_embed_watermark import base1_embed_watermark
+from base1_core.base1_extract_watermark import base1_extract_watermark
+# from base1_core.check1_embed_watermark import check1_embed_watermark
+# from base1_core.check1_extract_watermark import check1_extract_watermark
